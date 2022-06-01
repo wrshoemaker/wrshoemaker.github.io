@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quantitative ecological and evolutionary dynamics of microorganisms"
+title                    : "Quantitative microbial ecological and evolutionary dynamics"
 title_separator          : "-"
 name                     : &name "William R. Shoemaker"
 description              : &description "personal description"
