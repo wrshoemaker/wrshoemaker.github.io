@@ -4,7 +4,6 @@ title: "Invited talks"
 ---
 
 
-BIOL-Z 620: Quantitative Biodiversitya
 
 - The population dynamics and evolutionary outcomes of energy-limited microorganisms
     - MicroSeminar. March 29, 2020.
