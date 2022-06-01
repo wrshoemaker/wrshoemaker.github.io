@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me and my research"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -22,4 +22,6 @@ My research can be coarse-grained into the following efforts:
 
 * Examining the macroecological dynamics of strain-level structure in the human gut microbiome.
 
-These interests are consolidated by a shared rule: by coupling experimental and observational data with intuitive mathematical models containing few, if any, free parameters, we can gain greater insight into biological systems. At present, I primarily use computational and mathematical tools to perform my research, though I have considerable wet lab experience and have performed field research. You can learn more about these areas in the [Talks page](https://academicpages.github.io/talks)
+**These interests are consolidated by a shared rule: by coupling experimental and observational data with intuitive mathematical models containing few, if any, free parameters, we can gain greater insight into biological systems.** At present, I primarily use computational and mathematical tools to perform my research, though I have considerable wet lab experience and have performed field research.
+
+In my free time, I enjoy cooking, lifting, reading, film, and car repair.
