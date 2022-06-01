@@ -6,5 +6,5 @@ date: 2017-06-08
 venue: 'Nature Ecology and Evolution'
 link: 'https://doi.org/10.1038/s41559-017-0107'
 github: 'https://github.com/LennonLab/MicrobialBiodiversityTheory'
-citation: '<b>Shoemaker, W.R.</b>, K.J. Locey*, & J.T. Lennon. A macroecological theory of microbial biodiversity. <i>Nature Ecology and Evolution</i> 1, 0107 (2017).'
+citation: '<b>Shoemaker, W.R.</b>*, K.J. Locey*, & J.T. Lennon. A macroecological theory of microbial biodiversity. <i>Nature Ecology and Evolution</i> 1, 0107 (2017).'
 ---
