@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quantitative microbial ecology and evolutioanry dynamics"
+title                    : "Quantitative ecological and evolutionary dynamics of microorganisms"
 title_separator          : "-"
 name                     : &name "William R. Shoemaker"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -182,10 +182,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: False
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: False
+    permalink: /:collection/:path/
+  research:
+    output: False
     permalink: /:collection/:path/
 
 
@@ -227,23 +230,25 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
+      author_profile: false
+      share: false
+
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: research
       author_profile: true
       share: true
+
 
 # Sass/SCSS
 sass:
