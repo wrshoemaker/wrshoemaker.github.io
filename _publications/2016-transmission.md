@@ -1,5 +1,5 @@
 ---
-title: "Horizontal and Pseudo-environmental Transmission of the Antifungal Probiotic Bacterium Janthinobacterium lividum on Green Frog (<i>Lithobates clamitans</i>) Tadpoles"
+title: "Horizontal and Pseudo-environmental Transmission of the Antifungal Probiotic Bacterium <i>Janthinobacterium lividum</i> on Green Frog (<i>Lithobates clamitans</i>) Tadpoles"
 collection: publications
 permalink: /publication/2016-transmission
 date: 2016-06-08

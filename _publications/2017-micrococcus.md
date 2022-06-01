@@ -1,5 +1,5 @@
 ---
-title: "Whole genome sequence of the soil bacterium Micrococcus"
+title: "Whole genome sequence of the soil bacterium <i>Micrococcus</i>"
 collection: publications
 permalink: /publication/2017-micrococcus
 date: 2017-06-08

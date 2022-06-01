@@ -1,5 +1,5 @@
 ---
-title: "Whole genome sequence of the soil bacterium Micrococcus"
+title: "Evolution with a seed bank: the population genetic consequences of microbial dormancy"
 collection: publications
 permalink: /publication/2018-applications
 date: 2018-06-08
