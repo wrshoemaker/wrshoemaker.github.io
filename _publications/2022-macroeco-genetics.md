@@ -1,5 +1,5 @@
 ---
-title: "Ecological Stability Emerges at the Level of Strains in the Human Gut Microbiome"
+title: "A macroecological perspective on genetic diversity in the human gut microbiome"
 collection: publications
 permalink: /publication/2022-macroeco-genetics
 date: 2022-06-08
