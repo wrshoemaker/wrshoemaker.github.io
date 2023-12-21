@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[Here](https://github.com/wrshoemaker/wrshoemaker.github.io/blob/master/files/svm_cv_slim.pdf) you can view and download my CV.
+[Here](https://github.com/wrshoemaker/wrshoemaker.github.io/blob/master/files/CV_WRShoemaker.pdf) you can view and download my CV.
