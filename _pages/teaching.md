@@ -1,4 +1,4 @@
-_pages/teaching.md---
+---
 permalink: /teaching/
 title: "Teaching"
 ---
