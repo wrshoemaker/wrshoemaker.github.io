@@ -1,4 +1,4 @@
----
+_pages/teaching.md---
 permalink: /teaching/
 title: "Teaching"
 ---
@@ -44,7 +44,7 @@ title: "Teaching"
 
 - BIOL-Z 620: Quantitative Biodiversity
     - Co-Instructor, course developer, and lecturer
-    - Undergraduate course
+    - Graduate course
     - Spring 2017
     - [Course materials](https://github.com/QuantitativeBiodiversity/QuantitativeBiodiversity)
 
