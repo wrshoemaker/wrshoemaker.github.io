@@ -38,6 +38,7 @@ title: "Teaching"
     - Co-Instructor, course developer, and lecturer
     - Postgraduate course
     - Fall 2022, 2023, 2024
+    - [Course materials](https://github.com/wrshoemaker/ictp_numerical_methods_python_course)
 
 
 ### Indiana University Bloomington
