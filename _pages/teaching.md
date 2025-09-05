@@ -7,24 +7,31 @@ title: "Teaching"
 ## Workshops
 
 
+### ICTP Hands-on School in Quantitative Biology
+- ICTP, Trieste, Italy.
+- "Exploring Metabolic Cross-Feeding in a Synthetic *Pseudomonas* Consortium".
+- September 2025.
+- Lectures on [microbial growth in a batch culture](https://github.com/wrshoemaker/wrshoemaker.github.io/tree/master/files/2025_ictp_quant_school_2.pdf) and [building a system-specific model.](https://github.com/wrshoemaker/wrshoemaker.github.io/tree/master/files/2025_ictp_quant_school_4.pdf)
+
+
 ### ICTP Hands-On Quantitative Biology School 
-- University of Havana, Havana, Cuba
-- "Microbial coexistence in a chemostat setting"
-- November 2024
-- [Lecture notes](https://github.com/wrshoemaker/wrshoemaker.github.io/tree/master/files/cuba_notes.pdf)
+- University of Havana, Havana, Cuba.
+- "Microbial coexistence in a chemostat setting".
+- November 2024.
+- [Lecture notes.](https://github.com/wrshoemaker/wrshoemaker.github.io/tree/master/files/cuba_notes.pdf)
 
 ### IICII (ICTP-ICGEB, Curie Institute, and IFOM) Summer School in Quantitative Biology
-- IFOM, Milan, Italy
-- "Evolution in an Ecological Context"
-- August 2024
-- [Lecture notes](https://github.com/wrshoemaker/wrshoemaker.github.io/tree/master/files/IICII_notes.pdf)
+- IFOM, Milan, Italy.
+- "Evolution in an Ecological Context".
+- August 2024.
+- [Lecture notes.](https://github.com/wrshoemaker/wrshoemaker.github.io/tree/master/files/IICII_notes.pdf)
 
 
 ### Advanced School on Quantitative Principles in Microbial Physiology: from Single Cells to Cell Communitie
-- ICTP, Trieste, Italy
-- "Tutorial on Ecological Dynamics"
+- ICTP, Trieste, Italy.
+- "Tutorial on Ecological Dynamics".
 - October 2023
-- [Lecture notes](https://github.com/wrshoemaker/wrshoemaker.github.io/tree/master/files/consumer_resource_notes.pdf)
+- [Lecture notes.](https://github.com/wrshoemaker/wrshoemaker.github.io/tree/master/files/consumer_resource_notes.pdf)
 
 
 
@@ -37,7 +44,7 @@ title: "Teaching"
 - Numerical Methods in Python
     - Co-Instructor, course developer, and lecturer
     - Postgraduate course
-    - Fall 2022, 2023, 2024
+    - Fall 2022, 2023, 2024, 2025
     - [Course materials](https://github.com/wrshoemaker/ictp_numerical_methods_python_course)
 
 
