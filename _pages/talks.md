@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Invited talks"
+title: "Invited talks available to the public"
 ---
 
 
