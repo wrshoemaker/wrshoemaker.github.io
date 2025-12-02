@@ -40,12 +40,22 @@ title: "Teaching"
 
 ### The Abdus Salam International Centre for Theoretical Physics
 
-
 - Numerical Methods in Python
     - Co-Instructor, course developer, and lecturer
     - Postgraduate course
     - Fall 2022, 2023, 2024, 2025
     - [Course materials](https://github.com/wrshoemaker/ictp_numerical_methods_python_course)
+
+
+### ICTP/International School for Advanced Studies (SISSA)
+
+- Ecology & Evolution
+    - Guest lecturer
+    - Postgraduate course
+    - Fall 2025
+    -  [Lecture notes.](https://github.com/wrshoemaker/wrshoemaker.github.io/tree/master/files/sissa_lecture_03122025.pdf)
+
+
 
 
 ### Indiana University Bloomington
