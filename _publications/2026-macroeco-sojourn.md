@@ -1,7 +1,7 @@
 ---
-title: "Macroecological patterns in experimental microbial communities"
+title: "The macroecological dynamics of sojourn trajectories in the human gut microbiome."
 collection: publications
-permalink: /publication/2025-macroeco-experiment
+permalink: /publication/2026-macroeco-sojourn
 date: 2026-01-26
 venue: 'mSystems'
 link: 'https://doi.org/10.1128/msystems.01221-25'

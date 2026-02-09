@@ -1,7 +1,7 @@
 ---
 title: "An Interpretation, Survey, and Outlook of Microbial Macroecology"
 collection: publications
-permalink: /publication/2025-macroeco-experiment
+permalink: /publication/2026-macroeco-perspective
 date: 2026-01-16
 venue: 'EcoEvoRxiv'
 link: 'https://doi.org/10.32942/X2008N'

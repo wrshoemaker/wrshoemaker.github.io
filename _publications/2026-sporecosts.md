@@ -1,7 +1,7 @@
 ---
 title: "Evolutionary bioenergetics of sporulation"
 collection: publications
-permalink: /publication/2025-sporecosts
+permalink: /publication/2026-sporecosts
 date: 2026-02-06
 venue: 'Proc. Natl. Acad. Sci. U. S. A.'
 link: 'https://doi.org/10.1073/pnas.2524274123'

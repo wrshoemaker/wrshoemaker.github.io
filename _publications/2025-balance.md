@@ -1,7 +1,7 @@
 ---
 title: "A balance between environmental filtering and competitive exclusion modulates the macroecology of alternative stable states in microbial communities"
 collection: publications
-permalink: /publication/2025-sporecosts
+permalink: /publication/2025-balance
 date: 2025-12-22
 venue: 'bioRxiv'
 link: 'https://doi.org/10.64898/2025.12.19.695337'
