@@ -14,12 +14,12 @@ I study the ecological and evolutionary dynamics of microbial communities. I hav
 
 My research can be coarse-grained into the following efforts:
 
-* Identifying macroecological patterns in microbial communities.
+* Investigating macroecological patterns in microbial communities through the development of minimal mathematical models.
 
-* Characterizing microbial ecology and evolution in low-energy environments.
+* Determining the susceptibility and invariance of macroecological laws under experimental manipulation.
 
-* Examining the macroecological dynamics of strain-level structure in the human gut microbiome.
+* Characterizing the ecological and evolutionary consequences of life-history strategies that permit the maintenance of microbial life in resource-limited environments.
 
-**These interests are consolidated by a shared rule: by coupling experimental and observational data with intuitive mathematical models containing few, if any, free parameters, we can gain greater insight into biological systems.** At present, I primarily use computational and mathematical tools to perform my research, though I have considerable wet lab experience and have performed field research in temperate and tropical environments.
+**These efforts are unified by the following approach: that by coupling experimental/observational data with intuitive mathematical models containing a low number of free parameters, we can gain a greater predictive understanding of microbial life.** At present, I primarily use computational and mathematical tools to perform my research, though I have considerable wet lab experience and have performed field research in temperate and tropical terrestrial environments.
 
-In my free time, I enjoy cooking, lifting, reading, film, and car repair.
+In my free time I enjoy making gnocchi, powerlifting, swimming, reading Italo Calvino and Emil Cioran, and car repair.
